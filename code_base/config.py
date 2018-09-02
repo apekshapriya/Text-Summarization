@@ -1,0 +1,11 @@
+max_sequence_length = 45
+hidden_layer_dim = 60
+max_len_words = 30
+num_classes = 1
+optimizer = "GradientDescent"
+lr_rate = 0.01
+epochs = 1
+num_layers = 1
+model_name = "dynamic_rnn"
+batch_size = 20
+num_units = 60
